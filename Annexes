@@ -1,0 +1,161 @@
+\appendix
+\chapter{Annexes}
+
+	\begin{longtable}{p{4cm}p{8cm}}
+		\caption{Complete list of flowering plant species observed during the study period}
+		\label{tab:flowering flora}\\
+		\toprule
+		\textbf{Plant Family} & \textbf{Plant Species} \\
+		\midrule
+		\endfirsthead
+		
+		\multicolumn{2}{c}%
+		{{\bfseries \tablename\ \thetable{} -- continued from previous page}} \\
+		\toprule
+		\textbf{Plant Family} & \textbf{Plant Species} \\
+		\midrule
+		\endhead
+		
+		\bottomrule
+		\multicolumn{2}{r}{{Continued on next page}} \\
+		\endfoot
+		
+		\bottomrule
+		\endlastfoot
+		
+		Amaranthaceae & \textit{Beta vulgaris} L. \\
+		Amaryllidaceae & \textit{Allium roseum} L. \\
+		Anacardiaceae & \textit{Pistacia lentiscus} L. \\
+		Apiaceae & \textit{Daucus carota} L. \\
+		Apiaceae & \textit{Foeniculum vulgare} Mill. \\
+		Apiaceae & \textit{Sison amomum} L. \\
+		Apiaceae & \textit{Torilis arvensis} (Huds.) Link \\
+		Aristolochiaceae & \textit{Aristolochia rotunda} L. \\
+		Asparagaceae & \textit{Ornithogalum pyramidale} L. \\
+		Asparagaceae & \textit{Ornithogalum umbellatum} L. \\
+		Asteraceae & \textit{Bellis perennis} L. \\
+		Asteraceae & \textit{Bellis sylvestris} Cirillo \\
+		Asteraceae & \textit{Calendula arvensis} L. \\
+		Asteraceae & \textit{Carduus nutans} L. \\
+		Asteraceae & \textit{Cichorium intybus} L. \\
+		Asteraceae & \textit{Crepis sancta} (L.) Bornm. \\
+		Asteraceae & \textit{Crepis setosa} Haller f. \\
+		Asteraceae & \textit{Crepis vesicaria} L. \\
+		Asteraceae & \textit{Dittrichia viscosa} (L.) Greuter \\
+		Asteraceae & \textit{Erigeron sumatrensis} Retz. \\
+		Asteraceae & \textit{Galactites tomentosus} Moench \\
+		Asteraceae & \textit{Galatella linosyris} (L.) Rchb.f. \\
+		Asteraceae & \textit{Helminthotheca echioides} (L.) Holub \\
+		Asteraceae & \textit{Hypochaeris glabra} L. \\
+		Asteraceae & \textit{Jacobaea erratica} (Bertol.) Fourr. \\
+		Asteraceae & \textit{Pallenis spinosa} (L.) Cass. \\
+		Asteraceae & \textit{Picris hieracioides} L. \\
+		Asteraceae & \textit{Pulicaria dysenterica} (L.) Bernh. \\
+		Asteraceae & \textit{Senecio vulgaris} L. \\
+		Asteraceae & \textit{Sonchus asper} (L.) Hill \\
+		Asteraceae & \textit{Symphyotrichum squamatum} (Spreng.) G.L.Nesom \\
+		Asteraceae & \textit{Urospermum dalechampii} (L.) Scop. ex F.W.Schmidt \\
+		Boraginaceae & \textit{Aegonychon purpurocaeruleum} (L.) Holub \\
+		Boraginaceae & \textit{Borago officinalis} L. \\
+		Boraginaceae & \textit{Cerinthe major} L. \\
+		Brassicaceae & \textit{Calepina irregularis} (Asso) Thell. \\
+		Brassicaceae & \textit{Lepidium draba} L. \\
+		Brassicaceae & \textit{Raphanus raphanistrum} L. \\
+		Brassicaceae & \textit{Rapistrum rugosum} (L.) All. \\
+		Brassicaceae & \textit{Sisymbrium officinale} (L.) Scop. \\
+		Campanulaceae & \textit{Campanula rapunculus} L. \\
+		Caprifoliaceae & \textit{Cephalaria transsylvanica} (L.) Roem. \& Schult. \\
+		Caprifoliaceae & \textit{Dipsacus fullonum} L. \\
+		Caprifoliaceae & \textit{Scabiosa atropurpurea} L. \\
+		Caprifoliaceae & \textit{Scabiosa columbaria} L. \\
+		Caryophyllaceae & \textit{Silene vulgaris} (Moench) Garcke \\
+		Cistaceae & \textit{Cistus salviifolius} L. \\
+		Cistaceae & \textit{Cistus tauricus} C.Presl \\
+		Convolvulaceae & \textit{Convolvulus arvensis} L. \\
+		Cornaceae & \textit{Cornus sanguinea} L. \\
+		Dioscoreaceae & \textit{Dioscorea communis} (L.) Caddick \& Wilkin \\
+		Euphorbiaceae & \textit{Euphorbia helioscopia} L. \\
+		Euphorbiaceae & \textit{Mercurialis annua} L. \\
+		Fabaceae & \textit{Hippocrepis emerus} (L.) Lassen subsp. emerus \\
+		Fabaceae & \textit{Lathyrus ochrus} (L.) DC. \\
+		Fabaceae & \textit{Lotus corniculatus} L. \\
+		Fabaceae & \textit{Lotus hirsutus} L. \\
+		Fabaceae & \textit{Lotus ornithopodioides} L. \\
+		Fabaceae & \textit{Lotus tenuis} Waldst. \& Kit. ex Willd. \\
+		Fabaceae & \textit{Medicago arabica} (L.) Huds. \\
+		Fabaceae & \textit{Medicago sativa} L. \\
+		Fabaceae & \textit{Onobrychis viciifolia} Scop. \\
+		Fabaceae & \textit{Scorpiurus muricatus} L. \\
+		Fabaceae & \textit{Trifolium campestre} Schreb. \\
+		Fabaceae & \textit{Trifolium fragiferum} L. \\
+		Fabaceae & \textit{Trifolium pratense} L. \\
+		Fabaceae & \textit{Vicia hybrida} L. \\
+		Fabaceae & \textit{Vicia sativa} L. \\
+		Fabaceae & \textit{Vicia sepium} L. \\
+		Fabaceae & \textit{Spartium junceum} L. \\
+		Fabaceae & \textit{Sulla coronaria} (L.) B.H.Choi \& H.Ohashi \\
+		Fumariaceae & \textit{Fumaria officinalis} L. \\
+		Gentianaceae & \textit{Blackstonia perfoliata} (L.) Huds. \\
+		Gentianaceae & \textit{Centaurium tenuiflorum} (Hoffmanns. \& Link) Fritsch \\
+		Geraniaceae & \textit{Geranium dissectum} L. \\
+		Geraniaceae & \textit{Geranium molle} L. \\
+		Hypericaceae & \textit{Hypericum perforatum} L. \\
+		Iridaceae & \textit{Gladiolus italicus} Mill. \\
+		Lamiaceae & \textit{Ballota nigra} L. \\
+		Lamiaceae & \textit{Melissa officinalis} L. \\
+		Lamiaceae & \textit{Mentha pulegium} L. \\
+		Lamiaceae & \textit{Mentha suaveolens} Ehrh. \\
+		Lamiaceae & \textit{Prunella vulgaris} L. \\
+		Lamiaceae & \textit{Sideritis romana} L. \\
+		Lamiaceae & \textit{Teucrium polium} L. \\
+		Lythraceae & \textit{Punica granatum} L. \\
+		Malvaceae & \textit{Malope malacoides} L. \\
+		Malvaceae & \textit{Malva punctata} (All.) Alef. \\
+		Myrtaceae & \textit{Myrtus communis} L. \\
+		Oleaceae & \textit{Ligustrum vulgare} L. \\
+		Orchidaceae & \textit{Ophrys sphegodes} Mill. \\
+		Orchidaceae & \textit{Serapias parviflora} Parl. \\
+		Oxalidaceae & \textit{Oxalis acetosella} L. \\
+		Papaveraceae & \textit{Papaver rhoeas} L. \\
+		Plantaginaceae & \textit{Plantago altissima} L. \\
+		Plantaginaceae & \textit{Plantago lanceolata} L. \\
+		Plantaginaceae & \textit{Plantago major} L. \\
+		Plantaginaceae & \textit{Veronica persica} Poir. \\
+		Poaceae & \textit{Phalaris aquatica} L. \\
+		Polygonaceae & \textit{Rumex crispus} L. \\
+		Primulaceae & \textit{Lysimachia arvensis} (L.) U.Manns \& Anderb. \\
+		Primulaceae & \textit{Cyclamen repandum} Sm. \\
+		Ranunculaceae & \textit{Anemonoides apennina} L. \\
+		Ranunculaceae & \textit{Clematis flammula} L. \\
+		Ranunculaceae & \textit{Clematis vitalba} L. \\
+		Ranunculaceae & \textit{Nigella damascena} L. \\
+		Ranunculaceae & \textit{Ranunculus velutinus} Ten. \\
+		Rhamnaceae & \textit{Rhamnus alaternus} L. \\
+		Rosaceae & \textit{Potentilla pedata} Willd. ex Hornem. \\
+		Rosaceae & \textit{Potentilla reptans} L. \\
+		Rosaceae & \textit{Rosa sempervirens} L. \\
+		Rosaceae & \textit{Rubus ulmifolius} Schott \\
+		Rosaceae & \textit{Sanguisorba minor} Scop. \\
+		Rubiaceae & \textit{Cruciata laevipes} Opiz \\
+		Rubiaceae & \textit{Sherardia arvensis} L. \\
+		Santalaceae & \textit{Osyris alba} L. \\
+		Scrophulariaceae & \textit{Linaria vulgaris} Mill. \\
+		Scrophulariaceae & \textit{Verbascum blattaria} L. \\
+		Verbenaceae & \textit{Verbena officinalis} L. \\
+	\end{longtable}
+	
+	
+	\begin{table}[h]
+		\centering
+		\caption{Results of Kruskal-Wallis pairwise comparisons for floral cover among habitats}
+		\label{tab:kruskal_results}
+		\begin{tabular}{lccc}
+			\toprule
+			\textbf{Pairwise Comparison} & \textbf{Chi-squared} & \textbf{df} & \textbf{p-value} \\
+			\midrule
+			Meadow vs. Maquis & 0.3958 & 1 & 0.5293 \\
+			Meadow vs. Riparian & 5.4257 & 1 & 0.0198* \\
+			Maquis vs. Riparian & 8.4349 & 1 & 0.0037** \\
+			\bottomrule
+		\end{tabular}
+	\end{table}
