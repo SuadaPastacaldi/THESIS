@@ -1,0 +1,345 @@
+\chapter{Results and discussion}
+
+\section{Flowering plant communities' diversity}
+
+During the entire sampling period, 117 flowering species were recorded in the areas concerned and in the surroundings, distributed across 42 plant families. The complete listing of the flowering flora in the area is available in Table \ref{tab:flowering flora}. 
+
+In particular 2 families are dominant in the area.
+
+\begin{itemize}
+	\item Asteraceae with 22 species is the most represented family, this is the largest of angiosperm families and is characterized by  the composite flower heads and one-seeded achene fruits. Species belonging to this family present nectar within the corolla tube which is thus readily available to many kinds of insect visitors \parencite{faegriPrinciplesPollinationEcology2013}. Species like \textit{Helminthotheca echioides} L., \textit{Dittrichia viscosa} L., and \textit{Sonchus asper} L. were particularly abundant. These are typical of disturbed or agriculture affected habitats and contribute significantly to pollinator resources throughout the season.\\
+	
+	\item Fabaceae with 19 species is the second most abundant family, it includes  legumes such as Trifolium, Vicia, and Medicago species. The family has different flower phenologies, presenting specialized flower opening mechanisms and diverse color signals, these characteristics function as complementary filters, optimizing pollinator efficiency and excluding ineffective visitors \parencite{zhaoSynergisticEffectsFlower2025}. For example in faba bean the major contributors to pollen transport are honeybees, solitary bees and short-tangue bumblebees \parencite{lundinPartitioningPollinationServices2023}. So the visitors are usually more specialized than in the Asteraceae family but Fabaceae do provide nutritious floral resources especially for bees. They are also  crucial for soil fertility in agricultural areas for their nitrogen-fixing capacity \parencite{bardaFlowerMorphologyNectar2024}. 
+\end{itemize}
+
+
+Other well-represented families include Brassicaceae (5 species), which are early bloomers, often dominant in spring; Lamiaceae (8 species), which are mainly aromatic herbs  with specialized pollination syndromes, and Rosaceae and Ranunculaceae species that contribute to mid- and late-season flowering.
+
+The presence of species from families with staggered flowering times (e.g., Asteraceae, Fabaceae, Brassicaceae) ensures continuous floral availability from early spring to late autumn. And the mix of herbaceous, shrubby, and climbing species (e.g., \textit{Clematis vitalba} L., \textit{Rubus ulmifolius} Schott, \textit{Pistacia lentiscus} L.) assures distinct floral resources. The flora includes species adapted to different pollination strategies, some are generalists (e.g., \textit{Cichorium intybus} L., \textit{Foeniculum vulgare} L.) and other have more specific flower adaptation for pollination like \textit{Ophrys sphegodes} Mill. (Orchidaceae family). 
+
+
+So the amount of species and different families present makes the landscape fairly  heterogeneous and capable of supporting a wide range of pollination strategies, phenologies, and habitat preferences. 
+
+
+
+
+
+
+\subsection{Spatial variation}
+
+\begin{table}[ht!]
+	\centering
+	\caption{Alpha diversity indices and pollination units density across habitat types}
+	\label{tab:alpha.spacial.table}
+	\begin{tabular}{lccccS[table-format=3.1]}
+		\toprule
+		& \multicolumn{4}{c}{\textbf{Diversity Indices}} & \textbf{Pollination} \\
+		\cmidrule(lr){2-5} \cmidrule(l){6-6}
+		\textbf{Habitat} & \textbf{$S$} & \textbf{$H'$} & \textbf{$D$} & \textbf{$J'$} & \textbf{Units/m\textsuperscript{2}} \\
+		\midrule
+		Maquis    & 31 & 2.20 & 0.83 & 0.64 & 86.2 \\
+		Meadow    & 27 & 2.60 & 0.91 & 0.79 & 62.1 \\
+		Riparian  & 13 & 2.00 & 0.82 & 0.78 & 58.5 \\
+		\bottomrule
+	\end{tabular}
+	
+	\medskip
+	\footnotesize
+	$S$: Species richness; $H'$: Shannon index; $D$: Simpson index; $J'$: Pielou's evenness.
+	
+\end{table}
+
+\begin{figure} [ht!]
+	\centering
+	\includegraphics[width=1\linewidth]{Images/alpha.indeces.graph.pdf}
+	\caption{Variation of alpha diversity's indices across habitat types, on top of columns the actual index value is reported.}
+	\label{fig:alpha indices}
+\end{figure}
+
+In the tree different habitats analyzed flowering flora was similar given the proximity of the sites but when analyzing flower cover abundances an overall Kruskal-Wallis test comparing all three habitats showed significant differences ($\chi^2$ = 9.11, df = 2, p < 0.05). Subsequent pairwise comparisons revealed that while Meadow and Maquis habitats had similar floral cover abundance (p > 0.05), both differed significantly from Riparian habitat (Meadow-Riparian: p < 0.05; Maquis-Riparian: p < 0.01). See Table \ref{tab:kruskal_results} for actual values. This suggests that despite geographic proximity, riparian zones support fewer pollination units compared to the other two habitat types.
+
+Meadow was the most diverse plant community considering Shannon and Simpson diversity indices, followed by Maquis and Riparian. Pielou's evenness is also maximum in Meadow (Figure \ref{fig:alpha indices}), revealing that this higher diversity compared to Maquis is due to the more equal flower cover frequencies among plant species. Riparian on the other hand has an evenness similar to Meadow but lower diversity for an overall tinier number of species and fewer pollination units. Hutcheson's t-tests revealed highly significant differences in Shannon diversity among all the three habitat types (all pairwise comparisons: p < 0.001). 
+
+\paragraph{Maquis}
+In Maquis, a total of 31 plant species were recorded in flower during the study, this number peaks in September and has the lowest values in spring. The number of pollination units is highest in May, and it is represented by the biggest absolute value among habitats. Also the value of pollination units per square meter reaches the maximum in Maquis with 86.2 pollination units per square meter (Table \ref{tab:alpha.spacial.table}).
+
+% posso lasciare che faccio in parte anche una differenza mansual nonostante non abbia grafico/ tabella
+
+Even though Maquis exhibited the highest species richness ($S = 31$) it presents lower evenness ($J' = 0.64$), indicating a community dominated by a few abundant species alongside many rare species. Shannon index ($H' = 2.20$) indicate a high diversity rate but still significantly smaller than Meadow's. Simpson index ($D = 0.83$) is closer to Riparian's value proving the dominance of certain species in the community. This pattern is typical of Mediterranean shrublands where some competitive dominants structure the community, so it may be acting as pollination “hotspots” but usually in a specific time of the year, in this case spring, making it crucial for early-season pollinators in the area (Figure \ref{fig:alpha indices}).
+
+
+\paragraph{Meadow}
+
+In Meadow, a total of 27 plant species were recorded in flower during the study. This number peaks in August and it also has its lowest values in spring. The total of pollination units counted is smaller than Maquis' (Table \ref{tab:alpha.spacial.table}).
+
+Meadow exhibits the highest diversity ($H' = 2.60$, $D = 0.91$) despite a slightly lower richness than Maquis. In fact, examining evenness Meadow's highest value $J' = 0.79$ indicates more equitable species abundances, suggesting reduced competitive exclusion and greater niche partitioning. This pattern may result from an heterogeneous resource distribution characteristic of open grasslands, also offering a more reliable source of nourishment for visitors (Figure \ref{fig:alpha indices}).
+
+
+\paragraph{Riparian}
+
+In Riparian, only 13 plant species were recorded in flower during the study, the lowest value among the considered habitat types.
+This number peaks in April and it has very low values in June and September. The number of pollination units is also the smallest as absolute number and as density but it presents smaller monthly fluctuations  (Table \ref{tab:alpha.spacial.table}). 
+
+The Riparian site has a steady but very low richness of species in flower. It is the less diverse area ($H' = 2.00$, $D = 0.82$). It exhibits a moderate evenness ($J' = 0.78$), more equitable species abundances than Maquis'. It reflects a more harsh environment for flower visitors offering limited resources (Figure \ref{fig:alpha indices}).  
+
+
+\subsection{Temporal variation}
+
+Considering the integrated area, all months April to October have a number of species in flower present between 16 and 9 , the maximum is reached in June followed by May, where the species present are 13; all other months count with 9. Floral abundances follow a slightly different pattern, density is by far highest in May (Figure \ref{fig:Monthly abundances}), but Kruskal-Wallis test revealed that the pattern of pollination units abundances doesn't differ significantly across months (p > 0.5). 
+
+The temporal pattern of diversity metrics (Figure \ref{fig:Monthly variation of Shannon diversity index}) shows how all months have similar values of alpha diversity, with an only outsider, May. This month despite the highest abundance presents low diversity compared to other months, in fact evenness is also very low, the area is dominated by very few species. The total value of pollination units found in May is 2412 and within these 1881 are flowers of \textit{Sulla coronaria} (L.) B.H.Choi \& H.Ohashi. This is proved by Pairwise Hutcheson t-tests that revealed that May exhibited the most distinct diversity pattern, being significantly different from all other months (p < 0.001 for all comparisons).
+The test also showed significant differences in Shannon diversity between most monthly comparisons (19 out of 21 comparisons, p < 0.05). However, no significant difference was found between June-July (p > 0.05), and April-July showed only borderline significance (p = 0.053).
+
+The trend is typical of  Mediterranean habitats where in spring a burst of flowering and germination follows the begin of rains. There exist a summer decline due to the dry season limits for vegetation. Usually there would be an Autumn recovery, consequence of cooler temperatures and higher humidity, but it wasn't registered when only considering flowering flora and pollination units.  
+The values are overall low which may reflect habitat simplification due to agriculture use.
+
+\begin{figure} [ht!]
+	\centering
+	\includegraphics[width=1\linewidth]{Images/abundances.variation.pdf}
+	\caption{Monthly variation of pollination unit density. Number on top of bars represent the species richness for each month.}
+	\label{fig:Monthly abundances}
+\end{figure}
+
+\begin{figure} [ht!]
+	\centering
+	\includegraphics[width=1\linewidth]{Images/indeces.temporal.variation.pdf}
+	\caption{Monthly variation of Shannon and Simpson diversity index and of Pielou's evenness.}
+	\label{fig:Monthly variation of Shannon diversity index}
+\end{figure}
+
+
+
+
+\section{Pollination networks' diversity}
+
+%parte di questo discorso qui lo sposterei in spacial sotto ogni habitat 
+
+
+%tot piante
+A total of 637 interactions plant-visitors was registered during the whole period in the integrated area. Considering these Asteraceae, Apiaceae and Caprifoliaceae, are the families that receive the most visits from a wide range of pollinators. Other families show fewer and thinner connections indicating more specialized relationships or just more limited floral availability (Figure \ref{fig:plantfam-funcgroup.main}). 
+
+
+In Figure \ref{fig:plantspecies_funcgroup.main} the species-level network is useful for identifying more in detail which are the key plant species that support multiple pollinators. Like \textit{Helminthotheca echioides} L., \textit{Torilis arvensis} (Huds.) Link, \textit{Cephalaria transsylvanica} (L.) Roem. \& Schult.,\textit{ Daucus carota} L. and \textit{Verbena officinalis} L., these species support most interactions in the network elaborated for the total area so that they can be considered pollinator hubs in the area.
+In the network other species like \textit{Phalaris acquatica} L., \textit{Crepis sancta} (L.) Bornm. , \textit{Borrago officinalis} L. have a fair amount of visitation, but from just one or few insects functional groups. This highlights potential vulnerabilities, species with more specialized pollinator links may be at risk if their specific partners decline and vice versa if they go extinct in the area it may endanger the pollinator species concerned.
+
+However it is important to consider that the data presented here comes just from one monitoring season. Since pollination networks show significant interannual variation in interaction composition as it highlighted by  \cite{petanidouLongtermObservationPollination2008, petanidouVariableFloweringPhenology2014}, multi-year Mediterranean studies confirm that 20–40\% of interactions can change between consecutive years, even as overall network structure remains stable. This underscores the difference between realized specialization (observed in one year) and potential specialization (the full range of possible interactions). So, what appears as specialization in this study may instead reflect temporary conditions, such as specific weather patterns or annual population shifts rather than fixed ecological relationships. Therefore, confirmation of specialization patterns would require extended monitoring over a broader temporal scale \parencite{caradonnaInteractionRewiringRapid2017}.
+
+ %tot insects
+The insect groups that support the widest range of plant reproduction (or visits more in general) are beetles and bees, meaning that they might have a more generalist foraging strategy than other functional groups or that they are more abundant in the area. Groups like moths and wasps present more restricted interaction networks, compatible with trophic specializations or numerically limited populations.
+ 
+
+All insect functional groups in the network (Figure \ref{fig:plantspecies_funcgroup.main}) exhibit a generalist interaction pattern, engaging with a wide range of plant species. But here again this apparent generalism is likely influenced by the taxonomic breadth of the functional groups themselves. By aggregating diverse taxa into broad categories, we inherently mask species-level specialization and inflate the perceived generalism. 
+Such aggregation is done because species-level identification is limited. However, within each group particularly in bees and hoverflies, there may be specialist species whose ecological nuances are lost in the grouping.\\
+
+
+Table \ref{tab:metrics_spacial_table} suggests that the integrated area supports of course the highest biodiversity, Shannon diversity ($H'$) is 3.59, this value is coherent with the networks analyzed in \cite{petanidouLongtermObservationPollination2008} that showed values ranging from 3.24 to 3.78 across years. It is consistent with a diverse, healthy pollinator community in a semi-natural or natural habitat in a Mediterranean habitat. 
+
+Evenness ($J'$) is also consistent with the values in  \cite{petanidouLongtermObservationPollination2008} where these ranged from 0.70 to 0.79. Our value of 0.64 shows a lightly more uneven distribution of interaction frequencies. There are not important dominances among interactions in the network, but also not all interactions are equally common.
+
+It has a moderate degree of specialization ($H2$), while in \cite{petanidouLongtermObservationPollination2008} all $H2$ range between 0.55 – 0.65, our integrated area's network is more generalized with a value of 0.35. 
+
+Also the weighted connectance ($W_c$) is slightly higher than in the cited study, the proportion of possible interactions realized is 14\%, again pointing to generalization. Also, here we present a high linkage density ($LD = 5.76$), each species is connected to more partners on average, supporting again the generalization pattern. 
+
+The observed nestedness ($NODF = 13.28$) is very low, at the lower extreme of values reported for pollination networks in \cite{almeida-netoConsistentMetricNestedness2008}. These appear to be within the range 12.50 – 50.07, mean is 27.5, almost doubling our value. This indicates a marked distance from the strongly nested architecture typical of pollination networks, suggesting weak hierarchical organization, potentially the species present are generalists interacting with similar partner sets, reducing nested asymmetry.
+
+Robustness ($R = 0.81$) here is compared to the values found in a study that reports the proportion of plant species still pollinated after losing a given percentage of pollinators \parencite{memmottTolerancePollinationNetworks2004a}. Our value for the integrated area matches the upper bound of their most robust system. Therefore the system seems to be flexible, adaptive and redundant, again it appears to prioritize stability through generalization over efficiency through specialization. With it, it would tolerate substantial pollinator loss before plant pollination fails.
+
+Functional complementarity ($FC$) is calculated using binary interaction patterns as proxies. In a study that analyzed 10 Mediterranean shrubland networks in central Spain \parencite{bluthgenFunctionalComplementaritySpecialisation2011} the values of $FC$ varied significantly among sites, with values ranging from 176 to 518. Where higher $FC$ was associated with greater pollinator trait diversity and more heterogeneous floral resources, leading to a higher level of niche partitioning. Here $FC = 433.91$, is a high functional complexity that enhances stability in the system, characteristic of a structurally complex habitat.
+
+
+% lo metto in conclusioni???
+The combination of high functional complementarity ($FC = 433.91$) with low overall specialization ($H2 = 0.35$) suggests a system where pollinator species are generalists in partner choice but specialists in trait space. The pollinators species present all interact with many partners but they have at the same time different ecological roles/niches. This pattern is consistent with fine-scale environmental heterogeneity creating distinct micro-habitats, each favoring different functional traits \parencite{bluthgenFunctionalComplementaritySpecialisation2011}. The low nestedness further indicates weak hierarchical organization, supporting a model of compartmentalized interactions across micro-sites rather than a uniform, nested web. High linkage density and moderate evenness reflect substantial phenological complexity, where overlapping but staggered flowering and activity periods allow species to interact with multiple partners across temporal niches. Together, these metrics paint a picture of an integrated area where spatial and temporal heterogeneity maintain high biodiversity through niche differentiation rather than strict specialization.
+These micro-hibitat differences are subsequently analyzed. 
+
+\begin{figure} [ht!]
+	\centering
+	\includegraphics[width=0.8\linewidth, angle=270]{Images/plotweb.int.fam.pdf}
+	\caption{Interaction network of the integrated area. Insects' functional groups on the left side and plant families on the right.}
+	\label{fig:plantfam-funcgroup.main}
+	
+\end{figure}
+
+\begin{figure}[ht!]
+	\centering
+	\includegraphics[width=0.8\linewidth, angle=270]{Images/plotweb.int.species.pdf}
+	\caption{Interaction network of the integrated area. Insects' functional groups on the left side and plant species on the right}
+	\label{fig:plantspecies_funcgroup.main}
+	
+\end{figure}
+
+
+
+
+
+
+\subsection{Spatial variation}
+ 
+ 
+% suada guarda il word thesis
+
+\paragraph{Maquis}
+
+The Maquis network in Figure \ref{fig:plotweb.maquis} counts with 219 interactions, between six insect functional groups and 25 plant species mainly distributed within the families Lamiaceae, Asteraceae, Fabaceae, and Rosaceae. Some plant species attract multiple pollinator groups, most visits happened on just 4 species, \textit{Cephalaria transsylvanica} L., \textit{Torilis arvensis} (Huds.) Link and \textit{Cistus tauricus} C.Presl, \textit{Verbena officinalis} L.. Other species like \textit{Sideritis romana} L. or \textit{Rubus ulmifolius} Schott show limited and/or specialized connections.  Bees and hoverflies dominate the interactions, showing broad connectivity across many plant species. Beetles, bee flies, and butterflies exhibit narrower interaction profiles, suggesting more selective visitation or lower abundance. Moths are completely absent.
+
+Considering the pollination network metrics in Table \ref{tab:metrics_spacial_table}, the Maquis habitat exhibits similar Shannon diversity (3.16) and Pielou's evenness (0.63) to Meadow, indicating that interactions are numerous and fairly equally distributed among species, creating a balanced pollination system. Robustness is the highest among habitats (0.86), demonstrating exceptional resistance to species loss cascades. This resilience is directly linked to the lowest specialization level (H2 = 0.30), where generalized interactions provide extensive redundancy buffers. Nestedness is moderate (25.43), revealing the existence of a hierarchical structure that strengthens the resilience of the system to species loss. Despite this organization, functional complementarity ($FC$) is the highest (192.48) among the three habitats, showing that this one is the habitat type with highest structural complexity that allows a good niche partitioning among species. 
+
+ \begin{figure}[ht!]
+	\centering
+	\includegraphics[width=0.8\linewidth, angle=270]{Images/plotweb.maquis.pdf}
+	\caption{Pollination network of the Maquis area.
+		 Graph shows on the left 6 insects functional groups and 25 plant species on the right, interactions across these groups are represented by the gray lines between them.}
+	\label{fig:plotweb.maquis}
+	
+\end{figure}
+
+
+\paragraph{Meadow}
+
+The meadow network in Figure \ref{fig:plotweb.meadow} presents 284 pollination interactions between all insect functional groups and 22 plant species mainly distributed within the families Lamiaceae, Asteraceae, Fabaceae, and Apiaceae. Some plant species attract multiple pollinator groups, like \textit{Cephalaria transsylvanica} (L.) Roem. \& Schult., \textit{Torilis arvensis} (Huds.) Link and\textit{Helminthotheca echioides} L.. Other species like \textit{Borago officinalis} L. or \textit{Phalaris aquatica} L. show specialized connections. Bees and beetles dominate the network, butterflies, hoverflies, and wasps are present with moderate interaction breadth. Moths show fewer connections. 
+
+The Meadow's pollination network shows the highest Shannon diversity (3.25) among the three habitats, with equal evenness (0.63) to Maquis, indicating numerous interactions that are well-distributed among species. Robustness is intermediate (0.75), reflecting moderate resistance to species loss cascades. This is associated with intermediate specialization (H2 = 0.42), positioned between the generalized Maquis and a more specialized Riparian network. Nestedness is the lowest (15.09), suggesting a less hierarchical structure with more diffuse interaction patterns. Functional complementarity is moderate (166.76), indicating intermediate niche differentiation where species show both shared and unique pollination roles (Table \ref{tab:metrics_spacial_table}).
+
+\begin{figure}[ht!]
+	\centering
+	\includegraphics[width=0.8\linewidth, angle=270]{Images/plotweb.meadow.pdf}
+	\caption{Pollination network of the Meadow area.
+		Graph shows on the left 7 insects functional groups and 22 plant species on the right, interactions across these groups are represented by the gray lines between them.}
+	\label{fig:plotweb.meadow}
+	
+\end{figure}
+
+
+\paragraph{Riparian}
+
+The riparian network in Figure \ref{fig:plotweb.riparian} captures only 134 interactions between six insect functional groups and 11 plant species typical of riparian zones. With a dominance of Apiaceae, Asteraceae, and Boraginaceae. Some species like \textit{Convolvulus arvensis} L., \textit{Torilis arvensis} (Huds.) Link, or \textit{Daucus carota} L. show multiple connections but many plant species interact with just one insect functional group. Bees and beetles dominate the network, this time beetles are even more present than bees. Butterflies, wasps, bee flies and hoverflies are present with moderate interaction breadth. Moths are completely absent. 
+
+The Riparian habitat's network displays the lowest Shannon diversity (2.47) with reduced evenness (0.59), reflecting fewer interactions that are more unevenly distributed among species. Robustness is the lowest (0.70), indicating higher vulnerability to species loss cascades. This aligns with the highest specialization level (H2 = 0.58), where species engage in more exclusive interactions with limited redundancy. Nestedness is the highest (30.49), revealing a strongly hierarchical structure that efficiently organizes specialized interactions. Functional complementarity is the lowest (142.27) among habitat types as well, showing higher functional redundancy where species share ecological niches since this area is the less diverse of all and offers less resources for pollinators (Table \ref{tab:metrics_spacial_table}).
+
+
+ \begin{figure}[ht!]
+	\centering
+	\includegraphics[width=0.8\linewidth, angle=270]{Images/plotweb.riparian.pdf}
+	\caption{Pollination network of the Riparian area.
+		Graph shows on the left 6 insects functional groups and 11 plant species on the right, interactions across these groups are represented by the gray lines between them.}
+	\label{fig:plotweb.riparian}
+	
+\end{figure}
+
+\begin{table}[ht!]
+	\centering
+	\caption{Pollination network metrics across habitat types}
+	\label{tab:metrics_spacial_table}
+	\begin{tabular}{lcccc}
+		\toprule
+		\textbf{Metric} & \textbf{Integrated area} & \textbf{Maquis} & \textbf{Meadow} & \textbf{Riparian} \\
+		\midrule
+		\multicolumn{5}{l}{\textbf{Species richness}} \\
+		\midrule
+		Plant richness ($S_p$) & 34.00 & 25.00 & 22.00 & 11.00 \\
+		Pollinator richness ($S_a$) & 8.00 & 6.00 & 8.00 & 6.00 \\
+		Total richness ($S_T$) & 42.00 & 31.00 & 30.00 & 17.00 \\
+		\midrule
+		\multicolumn{5}{l}{\textbf{Diversity indices}} \\
+		\midrule
+		Shannon diversity ($H'$) & 3.59 & 3.16 & 3.25 & 2.47 \\
+		Pielou's evenness ($J'$) & 0.64 & 0.63 & 0.63 & 0.59 \\
+		\midrule
+		\multicolumn{5}{l}{\textbf{Network structure}} \\
+		\midrule
+		Specialization ($H2$) & 0.35 & 0.30 & 0.42 & 0.58 \\
+		Linkage density ($LD$) & 5.76 & 4.29 & 4.50 & 2.64 \\
+		Nestedness ($NODF$) & 13.28 & 25.43 & 15.09 & 30.49 \\
+		Weighted connectance ($W_c$) & 0.14 & 0.14 & 0.15 & 0.16 \\
+		\midrule
+		\multicolumn{5}{l}{\textbf{Network stability and function}} \\
+		\midrule
+		Robustness ($R$) & 0.81 & 0.86 & 0.75 & 0.70 \\
+		\midrule
+		Functional complementarity ($FC$) & 433.91 & 192.48 & 166.76 & 142.27 \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+
+\subsection{Temporal variation}
+
+The analysis of the temporal variation of the pollination networks in the integrated area reveals distinct seasonal patterns (Table \ref{tab:metrics_monthly_table}).
+
+Species richness followed a clear temporal trajectory, with total species richness peaking in June (19 species) and remaining elevated through summer before declining in autumn (October: 12 species). This pattern was mirrored in plant richness, which also peaked in June (13 species). Pollinator functional group richness showed a slightly asynchronous peak in August (7 groups), indicating a lag between maximum plant diversity and maximum pollinator functional diversity but this might still be influenced by the broad taxonomic groups we put pollinators in.
+
+Network diversity, measured by Shannon diversity ($H'$), increased from a spring low in April (1.27) to a peak in June (2.61). On the contrary, network evenness ($J'$) showed an increase from spring to a maximum in September (0.74). 
+A seasonal reversal was observed in network specialization, in fact the specialization index ($H2$) was highest in the resource-poor spring (April: 0.84) and dropped sharply during the resource-abundant summer (June: 0.23, August: 0.20).
+
+Linkage Density ($LD$), peaked alongside richness and diversity in June, this value is also strongly predictive for robustness \parencite{kaiser-bunburyRobustnessPollinationNetworks2010}, since higher $LD$ provides more potential pathways it makes networks more resilient to species loss. Network nestedness ($NODF$) displayed a complex bimodal pattern, with pronounced peaks during periods of resource scarcity in spring (April: 27.25) and late summer (September: 30.70), and lows during the high-richness summer months. Functional complementarity showed the most dramatic seasonal swing, with very high values in late spring/early summer (June: 137.95) collapsing to very low values by autumn (October: 22.81).
+
+In conclusion the observed metrics collectively describe not a simple linear progression, but a three phases adaptive cycle of network assembly and reorganization in response to local seasonal pressures, aligning with patterns reported for similar ecosystems.
+
+The early-season network in April is structurally distinctive. Despite low species richness, it exhibits high specialization ($H2$) and high nestedness ($NODF$). This represents a sparse but efficient and hierarchical structure, likely constructed by a core of phenologically early, often specialist interactions. This architecture prioritizes persistence and precise resource matching under the uncertain conditions of spring, forming a relatively fragile foundation.
+
+In early summer there is a peak in floral resource abundance, so that the network undergoes a dramatic transformation, especially in June when species richness ($S$), Shannon diversity ($H'$), and linkage density ($LD$) all peak indicating a more dense and highly connected web. It aligns with Mediterranean patterns reported also by \cite{petanidouLongtermObservationPollination2008}, in which the monthly fluctuation peaks a bit earlier, in May. This is coupled with a collapse in specialization ($H2$) and a rise in high functional complementarity, signifying a shift to a generalized, niche-differentiated regime. This phase maximizes resource exploitation and intrinsic robustness through abundant interaction pathways and functional diversity, embodying the ecosystem's peak productivity and resilience to perturbation.
+
+As the dry season intensifies and resources decline at the end of summer, the network contracts in species richness and functional complementarity. But it does not disintegrate, diversity is still high, meaning that the network structure strategically reorganizes. Evenness ($J'$) reaches its maximum, indicating a loss of dominance and a more balanced use of resources. Simultaneously, nestedness ($NODF$) peaks, forging an extremely tight, hierarchical structure. This reflects findings from other seasonal systems where nestedness increases under resource stress \parencite{olesenTemporalDynamicsPollination2008}, when fewer species remain, they organize into a tighter, more hierarchical core to periphery structure. This ensures community persistence by efficiently integrating the remaining species with generalists providing critical links for specialists—into a robust core that can endure the resource-scarce period.
+
+
+Thus, the system dynamically transitions from a precise and fragile spring scaffold, to a robust and generalized summer engine, and finally into a tightly integrated and persistent autumn core. This progression is not merely a linear increase and decrease in activity, but a strategic restructuring of interaction architecture to optimize function and resilience across the contrasting challenges of the Mediterranean seasonal cycle.
+
+The NMDS ordination of the monthly network data proved the discussed seasonal pattern in communities composition (Figure \ref{fig:NMDS}). Axis 1, which explained the majority of variation, cleanly separated April and May samples from all other months, indicating a distinct early-spring community. Axis 2 captured finer-scale variation, particularly within summer with higher values followed by autumn that reaches the minimum, suggesting seasonal phenological turnover.
+
+\begin{figure}[ht!]
+	\centering
+	\begin{minipage}[c]{0.75\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{Images/boxplot.pdf}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[c]{0.2\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{Images/legend.pdf}
+	\end{minipage}
+	\caption{Each boxplot presents one of the networks' metrics, each months positioning in the boxplot is represented by the colored dot.}
+	\label{fig:boxplot}
+\end{figure}
+
+\begin{table}[ht!]
+	\centering
+	\caption{Monthly variation in plant--pollinator network metrics}
+	\label{tab:metrics_monthly_table}
+	\begin{tabular}{lccccccc}
+		\toprule
+		\textbf{Metric} & \textbf{April} & \textbf{May} & \textbf{June} & \textbf{July} & \textbf{August} & \textbf{September} & \textbf{October} \\
+		\midrule
+		\multicolumn{8}{l}{\textbf{Species richness}} \\
+		\midrule
+		Plant richness ($S_p$) & 6.00 & 11.00 & 13.00 & 8.00 & 8.00 & 6.00 & 7.00 \\
+		Pollinator richness ($S_a$) & 3.00 & 4.00 & 6.00 & 6.00 & 7.00 & 5.00 & 5.00 \\
+		Total richness ($S_T$) & 9.00 & 15.00 & 19.00 & 14.00 & 15.00 & 11.00 & 12.00 \\
+		\midrule
+		\multicolumn{8}{l}{\textbf{Diversity indices}} \\
+		\midrule
+		Shannon diversity ($H'$) & 1.27 & 1.87 & 2.61 & 2.59 & 2.01 & 2.50 & 2.13 \\
+		Pielou's evenness ($J'$) & 0.44 & 0.49 & 0.60 & 0.67 & 0.50 & 0.74 & 0.60 \\
+		\midrule
+		\multicolumn{8}{l}{\textbf{Network structure}} \\
+		\midrule
+		Specialization ($H2$) & 0.84 & 0.59 & 0.23 & 0.32 & 0.20 & 0.28 & 0.45 \\
+		Linkage density ($LD$) & 1.52 & 2.37 & 3.40 & 3.09 & 2.54 & 3.00 & 2.42 \\
+		Nestedness ($NODF$) & 27.25 & 22.64 & 14.13 & 25.34 & 13.25 & 30.70 & 23.08 \\
+		Weighted connectance ($W_c$) & 0.17 & 0.16 & 0.18 & 0.22 & 0.17 & 0.27 & 0.20 \\
+		\midrule
+		\multicolumn{8}{l}{\textbf{Network stability and function}} \\
+		\midrule
+		Robustness ($R$) & 0.57 & 0.62 & 0.73 & 0.68 & 0.51 & 0.63 & 0.51 \\
+		Functional complementarity ($FC$) & 106.12 & 133.11 & 137.95 & 82.32 & 136.46 & 36.14 & 22.81 \\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+
+
+\begin{figure} [ht!]
+	\centering
+	\includegraphics[width=1\linewidth]{Images/NMDS matrici mesi.pdf}
+	\caption{NMDS, Non-Metric Multidimensional Scaling (NMDS) ordination, a multivariate statistical analysis based on Bray–Curtis dissimilarity. The two principal axes (Axis 1 and Axis 2), together represent the main gradients of variation in the pollination network across months. The distances between points reflect their ecological dissimilarity.}
+	\label{fig:NMDS}
+	
+\end{figure}
