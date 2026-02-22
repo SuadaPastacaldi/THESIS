@@ -1,0 +1,104 @@
+\documentclass[twoside]{report} %?
+
+\usepackage{subcaption}
+
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{siunitx}
+\captionsetup[figure]{labelsep=period} 
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{geometry}
+\usepackage{array}       % Per formattazione colonne
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{hyperref}
+% per collegamenti citazioni e figure
+\hypersetup{
+	colorlinks=true,  
+	linkcolor=blue,
+	urlcolor=cyan,
+	citecolor=green
+}
+\usepackage{cleveref}
+
+\usepackage[
+    backend=biber,
+    style=apa,
+    sorting=nyt,
+    maxcitenames=3,       
+    mincitenames=1,
+    maxbibnames=99,        
+    giveninits=true,      
+    uniquename=false,
+    uniquelist=false,
+    doi=true,           % Mostra DOI
+    url=true,           % Mostra URL
+    isbn=false,         % Nascondi ISBN
+    hyperref=true,    
+]{biblatex}
+
+\addbibresource{Bibliography.bib}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{geometry} % per sistemare layout di pagina
+\newgeometry{
+    left=3cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=3cm
+    }
+
+
+\title{Spacial and temporal variation of diversity of the flowering plants communities and pollination networks in an agricultural landscape in Tuscany.\\ {\large Università di Bologna}}
+\author{Suada Pastacaldi}
+\date{November 2025}
+
+\begin{document}
+
+\maketitle
+
+
+
+%\begin{figure} [!h]
+%	\centering
+%	\includegraphics[width=1\linewidth]{Images/imagenlinda.jpeg}
+%	\caption{ Andrene on cistus tauricus??}
+%	\label{fig: fig intro}
+%\end{figure}
+
+
+
+\chapter* {Abstract}
+
+Agricultural landscapes are among the ecosystems most impacted by human activity, often leading to degraded pollination networks. The "Gello Revival" project was initiated to establish a baseline for understanding pollination ecology in such a context.
+
+This study analyzes data from the project's initial phase to assess the biodiversity and health of local plant-pollinator communities. We investigated the diversity of flowering plant communities and the structure of pollination networks across three distinct habitat types. Standardized field observations were conducted monthly from April to October to capture spatial and temporal dynamics.
+
+Our findings reveal significant spatial and temporal variations. Both flowering plant communities and their associated pollinator networks exhibited distinct configurations depending on the micro-habitat. Furthermore, these networks underwent substantial seasonal reorganization, displaying different structural and functional properties, as well as varying resilience characteristics, throughout the flowering season.
+
+The results underscore a strong positive association between the diversity and abundance of flowering plants and the presence of wild pollinators, which in turn supports network resilience and overall ecosystem health. The existence of a solid plant-pollinator community baseline in these rural environments suggests that restoration efforts should prioritize low-impact, pollinator-friendly management practices. Key recommendations include delayed or reduced mowing, diversification of crop margins, and establishment of flower strips. Protecting and connecting existing high-value natural areas, such as hedgerows and tree lines, is crucial for enhancing micro-habitat diversity, providing nesting resources, and ensuring temporal and spatial continuity of floral resources. Future restoration should aim to increase landscape heterogeneity and functional diversity through the creation of new ecological niches within the agricultural matrix.
+
+\tableofcontents
+%\listofigure
+
+
+\include{Introduction}
+\include{Materials and methods}
+\include{document}
+\include{Conclusions}
+\include{Disclaimers}
+
+\include{Annexes}
+
+\appendix
+
+
+\printbibliography
+
+\end{document}
