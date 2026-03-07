@@ -4,7 +4,7 @@
 
 
 \paragraph{Gello}
-The areas concerned by the study are found in the agricultural lands sorrounding the town of "Gello" in Montecatini val di Cecina, Pisa, Tuscany (\Cref{fig:Municipality of Montecatini val di Cecina}). The satellite image, taken in August, shows clearly the difference of land use among the area, cultivated fields appear as bare land in this period while the green regions can be considered natural forest or bushes, typical climax vegetation of the considered area.
+The areas concerned by the study are found in the agricultural lands surrounding the town of "Gello" in Montecatini val di Cecina, Pisa, Tuscany (\Cref{fig:Municipality of Montecatini val di Cecina}). The satellite image, taken in August, shows clearly the difference of land use among the area, cultivated fields appear as bare land in this period while the green regions can be considered natural forest or bushes, typical climax vegetation of the considered area.
 
 % fare un immagine per localizzarlo nella regione??
 
@@ -14,7 +14,7 @@ In fact, considering the classification in \Cref{fig:Classification of satellite
 \begin{figure} [ht!]
 	\centering
 	\includegraphics[width=0.8\linewidth]{Images/montecatini.jpg}
-	\caption{Focus on the municipality of Montecatini val di Cecina shown with a satellite image, the red dot is where Gello town is located, while the white asterisk is the nearest climatic station.}
+	\caption{Focus on the municipality of Montecatini val di Cecina shown with a satellite image, the red dot is where Gello village is located, while the white asterisk is the nearest climatic station.}
 	\label{fig:Municipality of Montecatini val di Cecina}
 	
 \end{figure}
@@ -22,7 +22,7 @@ In fact, considering the classification in \Cref{fig:Classification of satellite
 \begin{figure} [ht!]
 	\centering
 	\includegraphics[width=0.8\linewidth]{Images/Rplot class 2025.jpeg}
-	\caption{Classification of satellite image of the area using NDVI, for urbanised or agricultural land, which in august is characterised by low NDVI values the interval (-inf-0,2]; the interval (inf-0.2] for healthy vegetation, indicates a more natural environment (in this mediterranean area the natural environment is represented by forests or maquis, high NDVI even in drought season).}
+	\caption{Classification of satellite image of the area using NDVI, for urbanised or agricultural land, which in august is characterised by low NDVI values the interval (-inf-0,2]; the interval (inf-0.2] for healthy vegetation, indicates a more natural environment (in this mediterranean area the natural environment is represented by evergreen forests and maquis, high NDVI even in drought season).}
 	\label{fig:Classification of satellite image of the area using NDVI}
 	
 \end{figure}
@@ -32,7 +32,7 @@ In fact, considering the classification in \Cref{fig:Classification of satellite
 %Da trovare bene perche ho usato soglia del 0.2 NDVI
 
 \subsection{Climatic characterization}
-A climatic characterization of the area was carried on thanks to the data in the regional hydrological service of the Tuscany region \parencite{SIRDATIArchivio}. Historic dataset of climatic variables, precipitation and temperature was elaborated for the station: Montecatini V. Cecina [TOS01002131], found at $43^\circ 20' 42.7''N \quad 10^\circ 42' 12.2''W$, and altitude 379 m a.s.l.
+A climatic characterization of the area was carried on thanks to the data by the regional hydrological service of the Tuscany region \parencite{SIRDATIArchivio}. Historic dataset of climatic variables, precipitation and temperature was elaborated for the station: Montecatini V. Cecina [TOS01002131], found at $43^\circ 20' 42.7''N \quad 10^\circ 42' 12.2''W$, and altitude 379 m a.s.l.
 Temperature data available was daily maximum and minimum temperature, so the arithmetic mean between these values was taken as representative for the day to complete the climogram, with data from 2008 to 2024. Precipitation dataset presents the total daily precipitations in the area, data was available from 2006 to 2024.  \\
 
 
@@ -44,7 +44,7 @@ Temperature data available was daily maximum and minimum temperature, so the ari
 	
 \end{figure}
 
-Precipitation in the past 15 years have been stable, around 950 mm/year, value that is representative for a Mediterranean environment at around 400 m of altitude. There is no evident trend of decreasing precipitation often consequence of climate warming in the time period concerned. The standard deviation is 237 mm over a mean of 956 mm indicating moderate variability, most years' values are concentrated between 700 and 1200 mm (\Cref{fig:Precipitation}). \\
+Precipitation in the past 15 years has been stable, around 950 mm/year, value that is representative for a Mediterranean environment at around 400 m of altitude. There is no evident trend of decreasing precipitation often consequence of climate warming in the time period concerned. The standard deviation is 237 mm over a mean of 956 mm indicating moderate variability, most years' values are concentrated between 700 and 1200 mm (\Cref{fig:Precipitation}). \\
 
 \begin{figure} [ht!]
 	\centering
@@ -70,12 +70,12 @@ Considering seasonal variability in summer the temperature peaks around 25°C in
 
 \subsection{Habitat types}
 
-For this analysis 5 study areas assigned by the "Gello Revival" project were object of the monitoring. All sites are found in or next to cultivated lands in Gello. In all sites the agricultural activities have been going on during the whole study time period, in particular mowing might have affected the monitoring. 
+For this analysis 5 study areas assigned by the "Gello Revival" project were object of the monitoring, in these, agricultural activities never stopped for the study. 
 
 \begin{figure} [ht!]
 	\centering
 	\includegraphics[width=1\linewidth]{Images/gello.transects.jpg}
-	\caption{In the map the sites of the study are delimited by colored areas, with different colors for different habitat types, as shown in legend. Red lines show the positioning and direction of the transects for each area, length is not representative.}
+	\caption{Map of the study area, the sites of the study are highlighted with different colors for different habitat types, as shown in legend. Red lines show the positioning and direction of the transects for each area.}
 	\label{fig:Transects}
 	
 \end{figure}
@@ -85,10 +85,10 @@ For this analysis 5 study areas assigned by the "Gello Revival" project were obj
 Two Maquis areas are considered, these are characterized by woody vegetation, they represent the margin of cultivated fields and the community is mainly composed by shrubs. In \Cref{fig:Transects} these sites are represented by the green areas.
 
 \subparagraph{Meadow}
-Two Meadow areas are considered, these are grassland areas between fields or roads often cultivated, grass represented mostly by annual plants flowering in spring. During the study they underwent mowing from the agricultural management, with which most flowers were cut off, limiting the data available. In \Cref{fig:Transects} they are represented by the yellow areas.
+Two Meadow areas are considered, these are characterized by grassland vegetation, located between fields or roads. This vegetation is represented mostly by annual plants flowering in spring. During this study they underwent mowing from the agricultural management, with which most flowers were cut off, limiting the data available. In \Cref{fig:Transects} they are represented by the yellow areas.
 
 \subparagraph{Riparian} 
-One riparian area was included in the study. It is an area along a canal formed by a river with torrential character. It was found to be completely dry during August and July, for the rest of the year, the canal maintains only a minimal base flow. In \Cref{fig:Transects} the riparian area is represented by the blue area.
+One riparian area was included in the study. It is an area along a canal formed by a river with torrential character. It was found to be completely dry during August and July, for the rest of the year, the canal maintains only a minimal base flow. In \Cref{fig:Transects} the riparian area is evidenced in blue.
 
 \begin{figure}[ht!]
 	\centering
@@ -112,7 +112,7 @@ One riparian area was included in the study. It is an area along a canal formed 
 		\caption{Riparian habitat}
 		\label{Riparian habitat}
 	\end{subfigure}
-	\caption{Photos of the study areas taken during the sampling, in different months, for visualizing different vegetation types in the habitats}
+	\caption{Photos of the study areas taken during fieldwork showing the different vegetation types.}
 	\label{fig: all.habitats}
 \end{figure}
 
@@ -120,16 +120,15 @@ One riparian area was included in the study. It is an area along a canal formed 
 
 
 \section{Data collection}
-The study comprehended a series of monitoring events from April 2025 to October 2025. Sampling sessions were held with a monthly frequency. Data recording was divided into two parts: the information on the flowering flora (identities of flowering plant species and floral cover), and the information on interactions within insects and flowers. The choice of the monitoring days was based on relative meteorological conditions (to choose days with suitable conditions for insect flight) and surveyors availability. Additionally, fieldwork hours were adjusted to avoid adverse weather conditions, including rain, excessive wind, extreme cold, or heat. Monitoring operations were held in the range between 9 a.m. and 3 p.m., temperature, relative humidity, wind speed, and cloud cover were recorded for each monitoring day.
+The study comprehended a series of monitoring events from April 2025 to October 2025. Sampling sessions were held with a monthly frequency. Data recording was divided into two parts: the information on the flowering flora (identities of flowering plant species and floral cover), and the information on interactions within insects and flowers. Fieldwork was planned in order to avoid adverse weather conditions, including rain, excessive wind, extreme cold, or heat. Monitoring operations were held in the range between 9 a.m. and 3 p.m., temperature, relative humidity, wind speed, and cloud cover were recorded for each monitoring event.
 
-Following the guidelines of \cite{LIFE4Pollinators}, suitable weather conditions for insect flight and for flower opening comprehend temperature between 15°C and 35°C, less than 50\% cloud cover, absence of rain and wind speed below 15 $\frac{\text{km}}{\text{h}}$, less than 4 on the Beaufort scale. This is a scale that explains how wind speed can be estimated by observing wind affecting objects in the environment, from 0 (calm), to 12 (hurricane), force 4 is described as moderate breeze that raises dust and loose paper, small branches are moved \parencite{meadenComparingTheoreticalVersions2007}. 
+Following the field protocol in \cite{LIFE4Pollinators}, suitable weather conditions for insect flight and for flower opening comprehend temperature between 15°C and 35°C, less than 50\% cloud cover, absence of rain and wind speed below 15 $\frac{\text{km}}{\text{h}}$, less than 4 on the Beaufort scale. This is a scale that explains how wind speed can be estimated by observing wind affecting objects in the environment, from 0 (calm), to 12 (hurricane), force 4 is described as moderate breeze that raises dust and loose paper, small branches are moved \parencite{meadenComparingTheoreticalVersions2007}. 
 
-The protocol was the exact same for each of the 5 above mentioned areas.
  
 
 \subsection{Flowering flora}
 
-A flora of the flowering plants of the area was elaborated listing all species found on site, each month. It comprehends species in the above mentioned areas and the surroundings. Some were identified directly on site but when field taxonomic identification was not possible, samples were collected, identified in the laboratory, and dried to create a reference sample preserved at the University of Bologna Herbarium. Identification was carried out mainly thanks to dichotomous keys in Pignatti’s “Flora D’Italia”  \parencite{pignattiFloraDItalia1982}. 
+A survey of the flowering plants of the area was done listing all the species in flower found on site, each month. It comprehends species in the above mentioned areas and the surroundings. Some were identified directly on site but when field taxonomic identification was not possible, samples were collected, identified in the laboratory, and dried to serve as reference sample, preserved at the University of Bologna Herbarium. Identification was carried out mainly trough dichotomous keys in “Flora D’Italia”  \parencite{pignattiFloraDItalia1982}. 
 
 
 \subsection{Floral cover}
@@ -150,10 +149,10 @@ The floral shape of each specie was recognized on field based on the “Illustra
 %foto di un plot??
 
 \subsection{Pollination networks}
-Interaction data was collected through a transect for each site.
-The transects are fixed, same positioning every month, they are 50 m long and 2 m wide. They are placed within the above-mentioned areas. The placing was chosen for it to be representative of the area and to capture maximum diversity within it. Because of this it did not necessarily follow a straight line, it followed diversity gradients depending on the site.
+Interactions were registered through a transect for each site.
+The transects are permanently fixed (same positioning every month), they are 50 m long and 2 m wide. They are placed within the above-mentioned areas. The placing was chosen for it to be representative of the area and to capture maximum diversity within it. Because of this it did not necessarily follow a straight line, it followed diversity gradients depending on the site.
 
-During these transects every interaction between a visiting insect and a flower is registered on a paper sheet on the field. An entomological net is used while walking the transect, during an exact 15-minute time slot. Only insects directly interacting with flowers are caught, time is stopped during visitors sample collection and handling. These are kept in a Falcon tube in an ice bag to avoid multiple counting of the same individual. After finishing the sampling, surveyors identified the collected insects and released them. Visitors were identified at morpho-genus level on field and for bees it was possible to reach the genus thanks to the presence of an expert taxonomist Dr. Laura Bortolotti. The functional groups considered here are those of bees, wasps, bee flies, moths, butterflies, hoverflies, and beetles.
+During these transects' monitoring walks every interaction between a visiting insect and a flower is registered on a paper sheet on the field. An entomological net is used while walking the transect, during an exact 15-minute time slot. Only insects directly interacting with flowers are caught, time is stopped during visitors sample collection and handling. These are kept in a Falcon tube in an ice bag to avoid multiple counting of the same individual. After finishing the sampling, surveyors identified the collected insects and released them. Visitors were identified at morpho-genus level on field and for bees it was possible to reach the genus thanks to the presence of an expert taxonomist (Dr. Laura Bortolotti). The functional groups considered here are those of bees, wasps, bee flies, moths, butterflies, hoverflies, and beetles.
 
 
 %Order Hymenoptera: bees, wasps
@@ -164,7 +163,7 @@ During these transects every interaction between a visiting insect and a flower 
 
 %Order Coleoptera: beetles
 
-Exception to the catch-and-release can be made for individuals that could not be confidently assigned to any morpho-genus. In this case, individuals are killed, placed in Falcon tubes, with annotations including capture ID number, plant species, site acronym, and date. Then they are transferred to the laboratory freezer at –2°C for at least two days and subsequently prepared for taxonomic identification under a stereo-microscope. All specimens are conserved at the Laboratory of Plant Reproductive Ecology, Department of Biological, Geological and Environmental Sciences, University of Bologna.
+Exception to the catch-and-release can be made for individuals that could not be confidently assigned to any morpho-genus. In this case, individuals are killed, placed in Falcon tubes, with annotations including capture ID number, plant species, site acronym, and date. Then they are transferred to the laboratory freezer at –2°C for at least two days and subsequently prepared for taxonomic identification under a stereo-microscope. All insect specimens are conserved at CREA-AA (Bologna) and at the Laboratory of Plant Reproductive Ecology, Department of Biological, Geological and Environmental Sciences, University of Bologna.
 
 %foto di un transetto fortu con retino??
 
@@ -201,12 +200,12 @@ Statistical analysis were also obtained using R, Kruskal-wallis test was run to 
 
 
 \subsection{Pollination networks' diversity}
-For pollination networks' diversity the dataset of the registered interaction was used, which contained the information got from the transects. The indices taken into account for describing network diversity across habitats and months were selected for representing distinct ecological dimensions of the network. These are: Species richness, both at plant level ($S_p$) and at pollinator level ($S_a$), Shannon diversity ($H'$), Pielou's evenness of interactions ($E$), Linkage density ($LD$), Weighted connectance ($C_w$), Network-level specialization ($H_2'$), Nestedness ($NODF$). Robustness ($R$) and Functional complementarity ($FC$) were also computed for the plant community. All are found in Table \ref{tab:network_metrics}. These were all computed with R's package "Bipartite" \parencite{dormannBipartiteVisualisingBipartite2025}
+For pollination networks' diversity I referred to the dataset of the registered interactions, which contained the information got from the transects. The indices taken into account for describing network diversity across habitats and months were selected for representing distinct ecological dimensions of the network. These are: Species richness, both at plant level ($S_p$) and at pollinator level ($S_a$), Shannon diversity ($H'$), Pielou's evenness of interactions ($E$), Linkage density ($LD$), Weighted connectance ($C_w$), Network-level specialization ($H_2'$), Nestedness ($NODF$). Robustness ($R$) and Functional complementarity ($FC$) were also computed for the plant community. All are found in Table \ref{tab:network_metrics}. These were all computed with R's package "Bipartite" \parencite{dormannBipartiteVisualisingBipartite2007}
 Shannon diversity (also called Shannon–Weiner index) was used to quantify interaction diversity, integrating both richness and evenness of interactions, it better captures the presence of rare interaction links in networks with relatively limited observations per habitat; Simpson’s index, being more influenced by dominant links, adds less information under these sampling conditions and therefore wasn't calculated for the network analysis \parencite{MeasuringConservationSuccess2024}.  
 
 For pollination networks the plotweb function in R's package "bipartite" was used. Result is a weighted quantitative interaction of plants (right column) and pollinators (left column) with an independent abundance.  Each bar represents a taxonomic or functional unit, and the connecting lines indicate observed visitation or pollination events. The plant-pollinator network provides a visual complexity of interactions between plants and pollinators, and shows the specificity of these relationships. It allows identification of which pollinator functional groups and which plant species (or families) are more generalists and which have more specialized roles.
 
-Statistical analysis were obtained using R (R Core Team, 2021), package "vegan" \parencite{oksanenVeganCommunityEcology2025}, to visualize and assess seasonal changes in community composition, we performed a Non-Metric Multidimensional Scaling (NMDS) ordination, a multivariate statistical analysis based on Bray–Curtis dissimilarity. This statistical technique takes a matrix of dissimilarities between samples (in this case, monthly pollination networks) and plots them in a two dimensions space. The algorithm tries to place the samples on the graph so that the distances between points accurately reflect their ecological dissimilarity. 
+Statistical analysis were performed using R (R Core Team, 2021), package "vegan" \parencite{oksanenVeganCommunityEcology2025}, to visualize and assess seasonal changes in community composition, we performed a Non-Metric Multidimensional Scaling (NMDS) ordination, a multivariate statistical analysis based on Bray–Curtis dissimilarity. This statistical technique takes a matrix of dissimilarities between samples (in this case, monthly pollination networks) and plots them in a two dimensions space. The algorithm tries to place the samples on the graph so that the distances between points accurately reflect their ecological dissimilarity. 
 
 
 \begin{table}[ht!]
