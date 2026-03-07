@@ -1,11 +1,22 @@
-\documentclass[twoside]{report} %?
+\documentclass[12pt]{report} %?
 
 \usepackage{subcaption}
+
+\usepackage{setspace}
+\onehalfspacing % Questo dà un'interlinea di 1.5
+
+% Per le note a piè di pagina con font size 10
+\renewcommand{\footnotesize}{\fontsize{10pt}{12pt}\selectfont}
+
+\usepackage{mathptmx}      % Times per testo e matematica
+\usepackage[T1]{fontenc}    % Codifica font per una migliore resa
+
 
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage{siunitx}
 \captionsetup[figure]{labelsep=period} 
+\captionsetup{font=small}
 \usepackage{xcolor}
 \usepackage{multirow}
 \usepackage{geometry}
@@ -48,20 +59,77 @@
 \usepackage{graphicx} % Required for inserting images
 \usepackage{geometry} % per sistemare layout di pagina
 \newgeometry{
-    left=3cm,
+    left=2.5cm,
     right=2.5cm,
     top=2.5cm,
-    bottom=3cm
+    bottom=2.5cm
     }
 
+\usepackage{etoolbox}
 
-\title{Spacial and temporal variation of diversity of the flowering plants communities and pollination networks in an agricultural landscape in Tuscany.\\ {\large Università di Bologna}}
-\author{Suada Pastacaldi}
-\date{November 2025}
+
+\AtBeginEnvironment{table}{\small}
+\AtBeginEnvironment{tabular}{\small}
+\AtBeginEnvironment{figure}{\small}
+
 
 \begin{document}
+	
+\begin{titlepage}
+	
+	\begin{center}
+		
+		% marchio di ateneo
+		\includegraphics[width=6.5cm,height=4.7cm]{Images/marchio-di-ateneo.png}
+		
+		\vspace{10mm}
+		
+		% \large is 12pt
+		{\large{\bf{Department of Biological, Geological and Environmental Sciences}}} 
+		
+		\vspace{5mm}
+		
+		% \Large is 14.4pt
+		{\Large{\bf{Master in Science and Management of Nature \\ Curriculum Global Change Ecology and Sustainable Development Goals}}}
+		
+	
+		\vspace{15mm}
+		
+		{\Huge{\bf Spatial and temporal variation in the flowering plant communities and pollination networks in an agroecosystem in Tuscany}}\\
+		\vspace{3mm}
+	
+		
+	\end{center}
+	
+	\vspace{20mm}
+	
+	\begin{minipage}[t]{0.40\textwidth}
+		{\large{\bf Supervisor: \\ Prof.\\ Marta Galloni}}
+		
+		\vspace{3mm}
+		
+		{\large{\bf Co-supervisor: \\ Dr.\\ Fortunato Fulvio Bitonto}}
+	\end{minipage}
+	\hfill
+	\begin{minipage}[t]{0.40\textwidth}\raggedleft
+		{\large{\bf Presented by: \\ Suada Pastacaldi}}
+	\end{minipage}
+	
+	\vspace{10mm}
+	
+	\rule[0.5cm]{15.8cm}{0.6mm}
+	
+	\begin{center}
 
-\maketitle
+		{\normalsize{\bf Academic year 2025/2026\\}}
+	\end{center}
+	
+\end{titlepage}
+
+
+
+
+
 
 
 
@@ -80,7 +148,7 @@ Agricultural landscapes are among the ecosystems most impacted by human activity
 
 This study analyzes data from the project's initial phase to assess the biodiversity and health of local plant-pollinator communities. We investigated the diversity of flowering plant communities and the structure of pollination networks across three distinct habitat types. Standardized field observations were conducted monthly from April to October to capture spatial and temporal dynamics.
 
-Our findings reveal significant spatial and temporal variations. Both flowering plant communities and their associated pollinator networks exhibited distinct configurations depending on the micro-habitat. Furthermore, these networks underwent substantial seasonal reorganization, displaying different structural and functional properties, as well as varying resilience characteristics, throughout the flowering season.
+Our findings reveal significant spatial and temporal variations. Both flowering plant communities and their associated pollinator networks exhibited distinct configurations depending on the habitat. Furthermore, these networks underwent substantial seasonal reorganization, displaying different structural and functional properties, as well as varying resilience characteristics, throughout the flowering season.
 
 The results underscore a strong positive association between the diversity and abundance of flowering plants and the presence of wild pollinators, which in turn supports network resilience and overall ecosystem health. The existence of a solid plant-pollinator community baseline in these rural environments suggests that restoration efforts should prioritize low-impact, pollinator-friendly management practices. Key recommendations include delayed or reduced mowing, diversification of crop margins, and establishment of flower strips. Protecting and connecting existing high-value natural areas, such as hedgerows and tree lines, is crucial for enhancing micro-habitat diversity, providing nesting resources, and ensuring temporal and spatial continuity of floral resources. Future restoration should aim to increase landscape heterogeneity and functional diversity through the creation of new ecological niches within the agricultural matrix.
 
@@ -99,6 +167,9 @@ The results underscore a strong positive association between the diversity and a
 \appendix
 
 
-\printbibliography
 
+\printbibliography[nottype=misc, title={Bibliography}]
+
+% Sitografia (solo siti web)
+\printbibliography[type=misc, title={Software and Online Resources}]
 \end{document}
